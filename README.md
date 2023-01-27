@@ -1,5 +1,5 @@
 # PHP Snippet code
-Welcome to this repository! Here you can find some useful snipped code to integrate in yout php application!
+Welcome to this repository! Here you can find some useful snipped code to integrate in your php application!
 
 | Title | Difficulty | 🔗 |
 |:-----:|:----------:|:--:|
