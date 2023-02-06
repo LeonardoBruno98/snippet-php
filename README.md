@@ -6,3 +6,4 @@ Welcome to this repository! Here you can find some useful snipped code to integr
 |***Array Map***|Easy 🟢 | [`Link`](https://github.com/LeonardoBruno98/snippet-php/blob/main/array_map.php)|
 |***Redirect 301***|Easy 🟢 | [`Link`](https://github.com/LeonardoBruno98/snippet-php/blob/main/redirect_301.php)|
 |***String Replace***|Easy 🟢 | [`Link`](https://github.com/LeonardoBruno98/snippet-php/blob/main/str_replace.php)|
+|***Date time***|Easy 🟢 | [`Link`](https://github.com/LeonardoBruno98/snippet-php/blob/main/date-time.php)|
